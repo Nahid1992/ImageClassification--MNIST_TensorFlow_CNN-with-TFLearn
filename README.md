@@ -1,4 +1,4 @@
-# MNIST_TensorFlow_CNN-with-TFLearn
+# ImageClassification--MNIST_TensorFlow_CNN-with-TFLearn
 
 This project is based on MNIST dataset. Convolutional Neural Network with four layers was used to predict hand written numbers. Popular machine learning library TF Learn was used on top of TensorFlow.
 
